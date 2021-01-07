@@ -1,4 +1,4 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thaysg&show_icons=true&count_private=true&theme=onedark)
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thaysg&show_icons=true&count_private=true&theme=radical)
 
 
 ### Hi there 👋
